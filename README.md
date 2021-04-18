@@ -1,5 +1,6 @@
 # Take a look of the App in the link below
-https://react-quiz-app1.netlify.app/ currently the app doesn't properly for mobile.
+
+https://react-quiz-app1.netlify.app/ 
 
 # Getting Started with Create React App
 
